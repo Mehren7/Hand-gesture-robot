@@ -9,6 +9,6 @@ adaptability across platforms.
 
 <img width="1166" height="745" alt="image" src="https://github.com/user-attachments/assets/0f054b6e-b436-4a5a-ba26-ffd7a43e0b9d" />
 
-#Circuit diagram
+# Circuit diagram
 
 <img width="1221" height="977" alt="image" src="https://github.com/user-attachments/assets/ae3c17df-3301-4ef7-acd6-b5e488a345b3" />
